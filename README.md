@@ -1,22 +1,16 @@
-#Line Follower Bot
-Overview
+# Line Follower Bot
 
-This project implements an autonomous line follower robot that follows a predefined path using IR sensors and motor drivers controlled by an Arduino.
+# Overview
+This project implements an autonomous line follower robot capable of tracking a predefined path using IR sensors and motor drivers, controlled by an Arduino.
 
-#Technologies / Tools
+# Technologies / Tools
+Arduino  
+IR Sensors  
+Motor Driver (L298N / L293D)  
+DC Motors  
 
-Arduino
-
-IR Sensors
-
-Motor Driver (L298N / L293D)
-
-DC Motors
-
-#Key Features
-
-Autonomous line detection
-
-Real-time path correction
-
-Stable navigation using sensor feedback
+# Key Features
+Accurate line detection using IR sensors  
+Real-time path correction for smooth navigation  
+Stable and reliable movement using continuous sensor feedback  
+Efficient motor control using driver modules  
