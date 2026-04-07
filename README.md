@@ -3,7 +3,7 @@ Overview
 
 This project implements an autonomous line follower robot that follows a predefined path using IR sensors and motor drivers controlled by an Arduino.
 
-Technologies / Tools
+#Technologies / Tools
 
 Arduino
 
@@ -13,7 +13,7 @@ Motor Driver (L298N / L293D)
 
 DC Motors
 
-Key Features
+#Key Features
 
 Autonomous line detection
 
